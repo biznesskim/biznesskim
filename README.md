@@ -51,6 +51,7 @@ Ordered lists start with numbers.
 1. Third
   <br />
   Unordered lists can use asterisks or dashes (-).
+ <br />
 - First
   - Nested
 - Second

@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  ⚡ Fun fact: ...
  <br />
  
-**Hello, *world*!** <--italic and bold
+**Hello, *world*!** <--italic and bold NOT CORRECT
+*Hello, *world*!* <--italic and bold
  <br />
 
  This is *italic* text.

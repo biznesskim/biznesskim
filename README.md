@@ -21,7 +21,10 @@ Here are some ideas to get you started:
  <br />
  
 **Hello, *world*!** <--italic and bold NOT CORRECT
+ <br />
 *Hello, *world*!* <--italic and bold
+ <br />
+ ***Hello, world!***
  <br />
 
  This is *italic* text.

@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  ###### This is H6 text.
   <br />
 
-![Link an image.](https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg)
+![Link an image.](https://upload.wikimedia.org/wikipedia/commons/f/f6/Small_Flower.JPG)
  <br />
 [Link to Microsoft Training](https://explore.skillbuilder.aws/learn/signin)
  <br />

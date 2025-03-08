@@ -61,5 +61,9 @@ Ordered lists start with numbers.
 * Third 
  <br />
 
+First|Second
+-|-
+1|2
+3|4
 
 

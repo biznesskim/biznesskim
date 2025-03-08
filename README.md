@@ -15,7 +15,11 @@ Here are some ideas to get you started:
  ⚡ Fun fact: ...
 -->
  This is *italic* text.
+ Here is a<br />line break
+ 
  This is also _italic_ text.
+ Here is a<br />line break
+ 
  This is **bold** text.
  This is also __bold__ text.
  _This is **italic and bold** text_

@@ -52,10 +52,10 @@ Ordered lists start with numbers.
   <br />
   Unordered lists can use asterisks or dashes (-).
  <br />
-- First
-  - Nested
-- Second
-- Third 
+* First
+  * Nested
+* Second
+* Third 
 
 
 

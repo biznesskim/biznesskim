@@ -45,6 +45,17 @@ Here are some ideas to get you started:
 [Link to Microsoft Training](https://explore.skillbuilder.aws/learn/signin)
  <br />
 
+Ordered lists start with numbers.
+1. First
+1. Second
+1. Third
+  <br />
+  Unordered lists can use asterisks or dashes (-).
+- First
+  - Nested
+- Second
+- Third 
+
 
 
 
